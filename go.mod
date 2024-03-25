@@ -3,6 +3,7 @@ module github.com/Dev9tkov/go_chat
 go 1.21.0
 
 require (
+	github.com/brianvoe/gofakeit v3.18.0+incompatible
 	google.golang.org/grpc v1.62.1
 	google.golang.org/protobuf v1.33.0
 )
